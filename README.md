@@ -30,6 +30,8 @@
 ![Apex](https://img.shields.io/badge/Apex-green?style=flat-square&logo=Apex)
 ![Trello](https://img.shields.io/badge/Trello-yellow?style=flat-square&logo=trello)
 
+<img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=bjvaldiviezo&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="cheesits456's Top Languages" align="left" width="295">
+
 <!--
 **BJValdiviezo/BJValdiviezo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

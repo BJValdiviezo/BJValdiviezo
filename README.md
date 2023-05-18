@@ -7,9 +7,10 @@ const bjvaldiviezo ={
 
 ```
 ## 📫 Redes
-<a target="_blank" href="https://www.linkedin.com/in/brianjvaldiviezo/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg &style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center" align='right'>
+<a target="_blank"href="https://www.linkedin.com/in/brianjvaldiviezo/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:bjvaldiviezo@gmail.com?subject=Hello%20Brian,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
+</p>
 
 ## ⚡ Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)

@@ -13,7 +13,7 @@ const bjvaldiviezo ={
 </p>
 
 ## ⚡ Technologies
-<p align="center" align='right'>
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -23,7 +23,7 @@ const bjvaldiviezo ={
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-</p>
+
 <!--
 **BJValdiviezo/BJValdiviezo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

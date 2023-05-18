@@ -1,15 +1,19 @@
 ### Hola, Me llamo Brian 👋
 
-	Que les puedo contar de mi, bueno saber cómo funcionan las máquinas, los dispositivos móviles, las computadoras y todo lo relacionado con la tecnología siempre me llamó la atención. Soy autodidacta y aprendo rápido, la curiosidad es parte de mí y me encanta aprender cosas nuevas. 
+####	👨‍🎓 Saber cómo funcionan las máquinas, los dispositivos móviles, las computadoras y todo lo relacionado con la tecnología siempre me llamó la atención. Soy autodidacta y aprendo rápido, la curiosidad es parte de mí y me encanta aprender cosas nuevas. 
 
-	Gracias a mi experiencia he pasado por varios puestos de trabajo y he adquirido diversas aptitudes, aprendiendo del puesto de bajo rango e ir creciendo gracias a mi perseverancia y entusiasmo. 
-Fui líder y trabajé junto a un equipo para poder cumplir nuestros objetivos y metas, y agradezco haber tenido esta oportunidad para poder crecer y ver de cuanto soy capaz. Por sobre todo siempre tome tiempo y dedicación para aprender y dar lo mejor de mí en los diversos puestos.
+####	🚀 Gracias a mi experiencia he pasado por varios puestos de trabajo y he adquirido diversas aptitudes, aprendiendo del puesto de bajo rango e ir creciendo gracias a mi perseverancia y entusiasmo. Fui líder y trabajé junto a un equipo para poder cumplir nuestros objetivos y metas, y agradezco haber tenido esta oportunidad para poder crecer y ver de cuanto soy capaz. Por sobre todo siempre tome tiempo y dedicación para aprender y dar lo mejor de mí en los diversos puestos.
 
-	Como ya he dicho me gusta estar constantemente aprendiendo, por lo que hoy además de mi carrera, me encuentro capacitándome en el área de Salesforce como Desarrollador junto a un Plataforma 5 como podrán ver en mi perfil.
+####	📚 Como ya he dicho me gusta estar constantemente aprendiendo, por lo que hoy además de mi carrera, me encuentro capacitándome en el área de Salesforce como Desarrollador junto a un Plataforma 5 como podrán ver en mi perfil.
+-------
 ## 📫 Redes
+
 <p align="center" align='right'>
 <a target="_blank"href="https://www.linkedin.com/in/brianjvaldiviezo/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a target="_blank"href="https://trailblazer.me/id/bjvaldiviezo"><img src="https://img.shields.io/badge/TrailHead-00A1E0.svg?&style=for-the-badge&logo=Salesforce&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:bjvaldiviezo@gmail.com?subject=Hello%20Brian,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+	
+	
 </p>
 
 ## ⚡ Technologies
@@ -23,6 +27,8 @@ Fui líder y trabajé junto a un equipo para poder cumplir nuestros objetivos y 
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Apex](https://img.shields.io/badge/Apex-green?style=flat-square&logo=Apex)
+![Trello](https://img.shields.io/badge/Trello-yellow?style=flat-square&logo=trello)
 
 <!--
 **BJValdiviezo/BJValdiviezo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

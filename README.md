@@ -6,9 +6,11 @@ const bjvaldiviezo ={
 }
 
 ```
+## 📫 Redes
 [![Linkedin Badge](https://img.shields.io/badge/-brianjvaldiviezo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brianjvaldiviezo/)](https://www.linkedin.com/in/brianjvaldiviezo/)
 [![Gmail Badge](https://img.shields.io/badge/-bjvaldiviezo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bjvaldiviezo@gmail.com)](mailto:bjvaldiviezo@gmail.com)
 
+## ⚡ Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)

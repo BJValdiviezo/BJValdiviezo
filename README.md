@@ -6,6 +6,7 @@ const bjvaldiviezo ={
 }
 
 ```
+JavaScript Nodejs Python React Java C++ HTML5 CSS3 Bootstrap TypeScript MongoDB Redis ElasticSearch GraphQL Apollo GraphQL PostgreSQL MySQL Heroku Docker DigitalOcean Amazon AWS Microsoft Azure Google Cloud Git GitHub GitLab BitBucket Raspberry Pi
 <!--
 **BJValdiviezo/BJValdiviezo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

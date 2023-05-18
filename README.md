@@ -7,8 +7,9 @@ const bjvaldiviezo ={
 
 ```
 ## 📫 Redes
-[![Linkedin Badge](https://img.shields.io/badge/-brianjvaldiviezo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brianjvaldiviezo/)](https://www.linkedin.com/in/brianjvaldiviezo/)
-[![Gmail Badge](https://img.shields.io/badge/-bjvaldiviezo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bjvaldiviezo@gmail.com)](mailto:bjvaldiviezo@gmail.com)
+<a target="_blank"href="https://www.linkedin.com/in/brianjvaldiviezo/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:bjvaldiviezo@gmail.com?subject=Hello%20Brian,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 ## ⚡ Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)

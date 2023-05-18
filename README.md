@@ -1,5 +1,11 @@
 ### Hi, I´m Brian 👋
+```js
+const bjvaldiviezo ={
+	promouns:"He"|"Him",
+	code: [Javascript, HTML, CSS, Java, Apex, Lightning WEb Component],
+}
 
+```
 <!--
 **BJValdiviezo/BJValdiviezo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

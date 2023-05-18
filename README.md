@@ -2,7 +2,13 @@
 ```js
 const bjvaldiviezo ={
 	promouns:"He"|"Him",
-	code: [Javascript, HTML, CSS, Java, Apex, Lightning WEb Component],
+	About Me: 
+	Que les puedo contar de mi, bueno saber cómo funcionan las máquinas, los dispositivos móviles, las computadoras y todo lo relacionado con la tecnología siempre me llamó la atención. Soy autodidacta y aprendo rápido, la curiosidad es parte de mí y me encanta aprender cosas nuevas. 
+
+Gracias a mi experiencia he pasado por varios puestos de trabajo y he adquirido diversas aptitudes, aprendiendo del puesto de bajo rango e ir creciendo gracias a mi perseverancia y entusiasmo. 
+Fui líder y trabajé junto a un equipo para poder cumplir nuestros objetivos y metas, y agradezco haber tenido esta oportunidad para poder crecer y ver de cuanto soy capaz. Por sobre todo siempre tome tiempo y dedicación para aprender y dar lo mejor de mí en los diversos puestos.
+
+Como ya he dicho me gusta estar constantemente aprendiendo, por lo que hoy además de mi carrera, me encuentro capacitándome en el área de Salesforce como Desarrollador junto a un Plataforma 5 como podrán ver en mi perfil.
 }
 
 ```

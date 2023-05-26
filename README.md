@@ -28,7 +28,6 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Apex](https://img.shields.io/badge/-Apex-green?style=flat-square&logo=Apex)
-![Css3](https://img.shields.io/badge/-3ss3?style=flat-square&logo=css3)
 ![LWC](https://img.shields.io/badge/-LWC-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-yellow?style=flat-square&logo=trello)
 

@@ -28,6 +28,7 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Apex](https://img.shields.io/badge/Apex-green?style=flat-square&logo=Apex)
+![Css](https://img.shields.io/badge/Apex-Violet?style=flat-square&logo=Css)
 ![Trello](https://img.shields.io/badge/Trello-yellow?style=flat-square&logo=trello)
 
 <img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=bjvaldiviezo&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="cheesits456's Top Languages" align="left" width="295">

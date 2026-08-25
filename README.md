@@ -244,8 +244,8 @@ Seguir creciendo como **QA Engineer**, fortaleciendo mi perfil en:
 
 Estoy abierto a conectar con profesionales de QA, desarrolladores, recruiters y comunidades de tecnología.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brian%20Jesús%20Valdiviezo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Contactarme-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brian%20Jesús%20Valdiviezo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brianjvaldiviezo/)
+[![Email](https://img.shields.io/badge/Email-Contactarme-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bjvaldiviezo@gmail.com)
 
 ---
 

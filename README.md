@@ -1,49 +1,74 @@
-### Hola, Me llamo Brian 👋
+<div align="center">
 
-####	👨‍🎓 Saber cómo funcionan las máquinas, los dispositivos móviles, las computadoras y todo lo relacionado con la tecnología siempre me llamó la atención. Soy autodidacta y aprendo rápido, la curiosidad es parte de mí y me encanta aprender cosas nuevas. 
+# 👋 Hi, I'm Brian Jesús Valdiviezo
 
-####	🚀 Gracias a mi experiencia he pasado por varios puestos de trabajo y he adquirido diversas aptitudes, aprendiendo del puesto de bajo rango e ir creciendo gracias a mi perseverancia y entusiasmo. Fui líder y trabajé junto a un equipo para poder cumplir nuestros objetivos y metas, y agradezco haber tenido esta oportunidad para poder crecer y ver de cuanto soy capaz. Por sobre todo siempre tome tiempo y dedicación para aprender y dar lo mejor de mí en los diversos puestos.
+### QA Manual / Functional Tester | QA Automation | Salesforce
 
-####	📚 Como ya he dicho me gusta estar constantemente aprendiendo, por lo que hoy además de mi carrera, me encuentro capacitándome en el área de Salesforce como Desarrollador junto a un Plataforma 5 como podrán ver en mi perfil.
--------
-## 📫 Redes
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](TU_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:TU_EMAIL)
 
-<p align="center" align='right'>
-<a target="_blank"href="https://www.linkedin.com/in/brianjvaldiviezo/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a target="_blank"href="https://trailblazer.me/id/bjvaldiviezo"><img src="https://img.shields.io/badge/TrailHead-00A1E0.svg?&style=for-the-badge&logo=Salesforce&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:bjvaldiviezo@gmail.com?subject=Hello%20Brian,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-	
-	
-</p>
+</div>
 
-## ⚡ Technologies
+---
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Java](https://img.shields.io/badge/JAVA-orange?style=flat-square&logo=java)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Apex](https://img.shields.io/badge/-Apex-green?style=flat-square&logo=Apex)
-![LWC](https://img.shields.io/badge/-LWC-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-yellow?style=flat-square&logo=trello)
+## 🧪 About Me
 
-<img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=bjvaldiviezo&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="cheesits456's Top Languages" align="left" width="295">
+I'm a **QA Manual / Functional Tester with experience in QA Automation**, focused on software quality from both a functional and technical perspective.
 
-<!--
-**BJValdiviezo/BJValdiviezo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have professional experience working with:
 
-Here are some ideas to get you started:
+- Functional and manual testing
+- Regression and smoke testing
+- Test case design and execution
+- Defect management
+- API testing
+- Web & Mobile testing
+- SQL and database validation
+- Test automation
+- Agile methodologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My approach to QA is based on understanding the requirement, identifying risks, designing effective test scenarios, documenting evidence, reporting defects and validating fixes.
+
+I also have experience with **Salesforce** and continue developing my technical skills in automation, APIs, databases and software development.
+
+🎓 **Systems Engineering student**
+
+---
+
+# 🚀 QA Portfolio
+
+This repository contains practical examples of my experience and learning in Software Quality Assurance.
+
+The goal is to demonstrate not only the tools I know, but also **how I approach testing and solve QA problems**.
+
+---
+
+## 📂 Portfolio Structure
+
+```text
+qa-portfolio/
+│
+├── 📁 manual-testing/
+│   ├── test-cases/
+│   ├── test-plan/
+│   ├── bug-reports/
+│   └── test-report/
+│
+├── 📁 api-testing/
+│   ├── postman/
+│   └── api-automation/
+│
+├── 📁 web-automation/
+│   ├── selenium/
+│   └── webdriverio/
+│
+├── 📁 mobile-testing/
+│   └── appium/
+│
+├── 📁 database-testing/
+│   └── sql/
+│
+├── 📁 accessibility-testing/
+│   └── insuit/
+│
+└── README.md

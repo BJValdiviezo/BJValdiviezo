@@ -77,11 +77,34 @@ Mi enfoque como QA abarca la comprensión del negocio, identificación temprana 
 
 ## 🔄 Mi Proceso de Calidad
 
-* **REQUERIMIENTO** ➔ ANÁLISIS + RIESGOS
-* **MATRIZ & ESCENARIOS** (BDD / Gherkin)
-* **EJECUCIÓN** (Manual / Automation)
-* **PASS / DEFECTO** ➔ Bug Report ➔ Retest ➔ Regression ➔ OK
-
+```text
+REQUERIMIENTO
+      │
+      ▼
+ANÁLISIS + RIESGOS
+      │
+      ▼
+ESCENARIOS DE PRUEBA
+      │
+      ▼
+EJECUCIÓN
+      │
+ ┌────┴────┐
+ ▼         ▼
+PASS     DEFECTO
+           │
+           ▼
+      BUG REPORT
+           │
+           ▼
+        RETEST
+           │
+           ▼
+      REGRESSION
+           │
+           ▼
+          OK
+```
 ---
 
 ## 🎯 Objetivo Profesional

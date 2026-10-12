@@ -60,12 +60,16 @@ Mi enfoque como QA abarca la comprensión del negocio, identificación temprana 
 
 ---
 
-## 📌 Experiencia Destacada — Necta (MXM / DPJ)
+## 📌 Experiencia Destacada
 
-Participación profesional como QA Analyst en el testing de las aplicaciones **MXM y DPJ** (Provincia de Mendoza):
+### QA Functional & Automation Analyst | Itrio S.A.
+* **Proyectos & Clientes:** Veritran, Insuit, El Cronista, Necta.
+* **Testing Funcional & E2E:** Diseño y ejecución de casos de prueba, regresión, smoke y análisis de requerimientos en aplicaciones bancarias, plataformas de medios y sistemas del sector público (aplicaciones MXM y DPJ).
+* **QA Automation & APIs:** Automatización de flujos web, mobile y ejecución de pruebas de integración sobre APIs REST con Postman.
+* **Accesibilidad Web (WCAG):** Validación de estándares de accesibilidad e integración de herramientas como Insuit (i4t) con funciones personalizadas en JavaScript.
 
-- **Testing Funcional & Regresión:** Validación de flujos de negocio para entidades `SRL`, `SA`, `SAS`, `AC` y `Fundaciones`.
-- **Calidad Integral:** Diseño de matrices de prueba, seguimiento del ciclo de vida de defectos y redacción de guías de usuario.
+### Operaciones & Supervisión | Coto C.I.C.S.A.
+* Liderazgo operativo, gestión de procesos de caja, flujo de datos y control de calidad en sistemas de punto de venta (POS).
 
 > ⚠️ *Este perfil no contiene información confidencial ni documentación propietaria de clientes.*
 

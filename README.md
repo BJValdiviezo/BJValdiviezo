@@ -53,7 +53,7 @@ Mi enfoque como QA abarca la comprensión del negocio, identificación temprana 
 
 | Proyecto | Tech Stack | Descripción / Cobertura |
 |---|---|---|
-| ☕ [Lippia E2E Framework](https://github.com/BJValdiviezo/lippia-e2e-automation-framework) | Java 17, Selenium 4, Cucumber 7, TestNG, Maven | Framework E2E escalable con arquitectura BDD + POM y reportes dinámicos HTML/JSON. |
+| ☕ [Java Selenium Cucumber Framework](https://github.com/BJValdiviezo/java-selenium-cucumber-e2e-framework) | Java 17, Selenium 4, Cucumber 7, TestNG, Maven | Framework E2E escalable con arquitectura BDD + POM, ejecuciones cross-browser y capturas automáticas ante fallos. |
 | ⚡ [Playwright E2E Framework](https://github.com/BJValdiviezo) | Playwright, JavaScript, POM, CI/CD | Automatización de flujos críticos de usuario (Login, Catálogo, Checkout) con ejecuciones paralelas. |
 | 🔌 [API Testing Suite](https://github.com/BJValdiviezo) | Postman, Newman, REST API | Suites de pruebas automatizadas para servicios web REST y validación de esquemas JSON. |
 | 📱 [Mobile Automation](https://github.com/BJValdiviezo) | Appium, WebdriverIO, Android | Tests funcionales sobre aplicaciones móviles nativas e híbridas. |
